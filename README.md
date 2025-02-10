@@ -18,7 +18,6 @@ biology as the basis for genetic engineering. Presentation by each group will be
 at the end of the semester on designated topics. 🧬
 
 ### Assessment 🌠
--[Notes](#notes)
 
 -[Tutorial](#tutorial)
 
